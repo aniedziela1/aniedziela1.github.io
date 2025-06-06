@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.
+title:            roadtoHCIE
+tagline:          'A blog'
+description:      'Interested in HCIA/HCIP/HCIE? Stay with me!'
+url:              https://aniedziela1.github.io/
+baseurl:          /
+
+author:
+  name:           'Arkadiusz Niedziela'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/aniedziela1/aniedziela1.github.io
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
