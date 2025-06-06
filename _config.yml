@@ -10,7 +10,7 @@ title:            roadtoHCIE
 tagline:          'A blog'
 description:      'Interested in HCIA/HCIP/HCIE? Stay with me!'
 url:              https://aniedziela1.github.io/
-baseurl:          /
+baseurl:          ""
 
 author:
   name:           'Arkadiusz Niedziela'
